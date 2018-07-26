@@ -29,9 +29,9 @@ Run the **requirements.txt** to install dependencies
 
 ### Steps to run this example
 
- 1. `python load_images_into_pickels.py`
- 2. `python train_model.py`
- 3. `predict_model.py`
+ 1. `python load_images_into_pickels.py` - will create a new folder **dataset_pickles/**, which contains the pickle file.
+ 2. `python train_model.py` -  will train the model and generates a .h5py file in the out folder and also some frozen graph files (.pb).
+ 3. `predict_model.py`- will output the predictions
 ## Output
 ![Output](https://github.com/satishp962/hindi_handwritten_characters_recognition/blob/master/output.PNG)
 
