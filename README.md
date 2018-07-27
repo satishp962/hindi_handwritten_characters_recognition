@@ -7,8 +7,6 @@
  - GPU - Nvidia Geforce 740M (CUDA Compatible GPU)
 
 ### Required Python modules
-Run the **requirements.txt** to install dependencies
-
  - Tensorflow >= 1.1
  - Keras
  - OpenCV
